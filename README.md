@@ -40,8 +40,7 @@
 <br>
 <br>
 <summary>📝 My GitHub Stats</summary>
-
-
+<br>
 ![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nguyencse&theme=gotham)
 
 [sendovn]: https://sendo.vn
