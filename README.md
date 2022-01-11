@@ -41,7 +41,7 @@
 <br>
 <summary>📝 My GitHub Stats</summary>
 
-![Nguyen's github stats]((https://github-readme-stats.vercel.app/api?username=nguyencse&count_private=true&show_icons=true&theme=github_dark)](https://github.com/dzungvu?tab=repositories))
+![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nguyencse&count_private=true&show_icons=true&theme=github_dark)
 
 [sendovn]: https://sendo.vn
 [profile]: https://nguyencse.github.io
