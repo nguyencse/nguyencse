@@ -18,8 +18,6 @@
 
 ### Mobile Developer, AI Researcher
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 #### Talking about my personal stuff:
 
 - 💻 Mobile Developer at [Sendo Tech., JSC][sendovn]
