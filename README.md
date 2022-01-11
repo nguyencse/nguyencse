@@ -39,7 +39,6 @@
 <br>
 <br>
 <br>
-<summary>📝 My GitHub Stats</summary>
 
 ![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nguyencse&count_private=true&show_icons=true&theme=github_dark)
 
