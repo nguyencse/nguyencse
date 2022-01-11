@@ -35,8 +35,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <br>
-<br>
-<br>
 
 ![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nguyencse&count_private=true&show_icons=true&theme=github_dark)
 
