@@ -31,6 +31,7 @@
 <code><img width=24px src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img width=24px src="http://rust-lang.org/logos/rust-logo-32x32.png"></code>
 
 <br>
@@ -40,3 +41,4 @@
 [sendovn]: https://sendo.vn
 [profile]: https://nguyencse.github.io
 [hackerrank]: https://www.hackerrank.com/nguyencse
+[![trophy](https://github-profile-trophy.vercel.app/?username=nguyencse&margin-w=5&margin-h=5&column=6&title=Stars,Followers,Commit,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
