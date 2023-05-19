@@ -35,7 +35,7 @@
 
 <br>
 
-![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nguyencse&count_private=true&show_icons=true&theme=github_dark)
+![Nguyen's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=nguyencse&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 
 [sendovn]: https://sendo.vn
 [profile]: https://nguyencse.github.io
