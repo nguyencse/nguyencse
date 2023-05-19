@@ -1,4 +1,5 @@
 ### Hey there, I'm  Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=nguyencse&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 <div align="center">
 <p align="center">Let's connect!</p>
