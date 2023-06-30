@@ -17,7 +17,7 @@
 </div>
 
 
-### Mobile Developer, AI Researcher,...
+### Mobile Developer, AI Engineer,...
 
 #### Talking about my personal stuff:
 
