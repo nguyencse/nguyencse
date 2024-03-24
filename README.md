@@ -21,7 +21,7 @@
 
 #### Talking about my personal stuff:
 
-- 💻 Mobile Developer at [Sendo Tech., JSC][sendovn]
+- 💻 Senior Mobile Developer at [ADDX Singapore][addxco]
 - 🙋‍♂️ AI Researcher
 - 🏋 [My Hackerrank][hackerrank]
 - 📄 [Portfolio][profile]
@@ -40,7 +40,7 @@
 
 ![Nguyen's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=nguyencse&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 
-[sendovn]: https://sendo.vn
+[addxco]: https://addx.co
 [profile]: https://nguyencse.github.io
 [hackerrank]: https://www.hackerrank.com/nguyencse
 [![trophy](https://github-profile-trophy.vercel.app/?username=nguyencse&margin-w=5&margin-h=5&column=6&title=Stars,Followers,Commit,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
