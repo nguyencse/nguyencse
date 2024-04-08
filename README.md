@@ -24,7 +24,6 @@
 - 💻 Senior Mobile Developer at [ADDX Singapore][addxco]
 - 🙋‍♂️ AI Researcher
 - 🏋 [My Hackerrank][hackerrank]
-- 📄 [Portfolio][profile]
 
 ### Major programming languages
 
